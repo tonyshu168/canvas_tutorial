@@ -1,4 +1,4 @@
- function Console(i: any): void {
+function Console(i: any): void {
 
   console.log('i: ', i);
 }
