@@ -9,4 +9,16 @@
   ctx!.beginPath();
   ctx!.arc(200, 200, 60, 0, 7, false);
   ctx!.fill();
+
+  // ctx!.fillStyle="red";
+  // ctx!.fillRect(20,20,75,50);
+  // ctx!.globalCompositeOperation="source-over";
+  // ctx!.fillStyle="blue";
+  // ctx!.fillRect(50,50,75,50);
+
+  // ctx!.fillStyle="red";
+  // ctx!.fillRect(150,20,75,50);
+  // ctx!.globalCompositeOperation="destination-over";
+  // ctx!.fillStyle="blue";
+  // ctx!.fillRect(180,50,75,50);
 }
