@@ -472,7 +472,8 @@ image.onload = () => {
 
 }
 ```
-### 综合练习，绘制一个刮刮奖
+### 综合练习，绘制一个刮刮奖: 使用到了globalCompsiteOperate方法：设置或返回如何将一个源（新的）图像绘制到目标（已有）的图像上   
+![globalCompositeOperate参数](./img/globalCompositeOperate.png)
 ![效果图](./img/drawScratchTicket.png)    
 
 ```typescript
